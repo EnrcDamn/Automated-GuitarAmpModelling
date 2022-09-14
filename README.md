@@ -1,3 +1,5 @@
+*Note: originally forked from https://github.com/Alec-Wright/Automated-GuitarAmpModelling*
+
 # Automated-Guitar Amplifier Modelling
 
 ## GuitarML Fork
